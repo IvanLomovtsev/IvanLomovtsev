@@ -5,7 +5,7 @@
   + Telegram: [@ivanlomovtsev](@ivanlomovtsev "tg by lomovtsev ivan")
   + Gmail: [i.d.lomovtsev.gmail.com](i.d.lomovtsev.gmail.com "email by lomovtsev ivan")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?IvanLomovtsev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ivanlomovtsev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IvanLomovtsev/IvanLomovtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
