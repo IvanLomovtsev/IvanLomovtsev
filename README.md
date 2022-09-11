@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+* 💬 A little bit about me: electrical research engineer, beginner frontend developer
+* 📫 My contacts:
+  + Telegram: [@ivanlomovtsev](@ivanlomovtsev "tg by lomovtsev ivan")
+  + Gmail: [i.d.lomovtsev.gmail.com](i.d.lomovtsev.gmail.com "email by lomovtsev ivan)
+
 <!--
 **IvanLomovtsev/IvanLomovtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
