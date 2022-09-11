@@ -2,10 +2,10 @@
 
 * 💬 A little bit about me: electrical research engineer, beginner frontend developer
 * 📫 My contacts:
-  + Telegram: [@ivanlomovtsev](@ivanlomovtsev "tg by lomovtsev ivan")
-  + Gmail: [i.d.lomovtsev.gmail.com](i.d.lomovtsev.gmail.com "email by lomovtsev ivan")
+  + Telegram: [@ivanlomovtsev](@ivanlomovtsev "tg by Lomovtsev Ivan")
+  + Gmail: [i.d.lomovtsev.gmail.com](i.d.lomovtsev.gmail.com "email by Lomovtsev Ivan")
+  + Codewars: [IvanLomovtsev](https://www.codewars.com/users/IvanLomovtsev "codewars by Lomovtsev Ivan")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ivanlomovtsev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IvanLomovtsev/IvanLomovtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
