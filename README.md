@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Ivan 👋
 
 * 💬 A little bit about me: electrical research engineer, beginner frontend developer
 * 📫 My contacts:
   + Telegram: [@ivanlomovtsev](@ivanlomovtsev "tg by Lomovtsev Ivan")
   + Gmail: [i.d.lomovtsev.gmail.com](i.d.lomovtsev.gmail.com "email by Lomovtsev Ivan")
   + Codewars: [IvanLomovtsev](https://www.codewars.com/users/IvanLomovtsev "codewars by Lomovtsev Ivan")
+* 🏠 Location: Yekaterinburg, Russia
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLomovtsev&layout=compact)](https://github.com/anuraghazra/github-readme-stat)
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/IvanLomovtsev)
 
 <!--
 **IvanLomovtsev/IvanLomovtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
