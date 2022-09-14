@@ -4,7 +4,6 @@
 * 📫 My contacts:
   + Telegram: [@ivanlomovtsev](@ivanlomovtsev "tg by Lomovtsev Ivan")
   + Gmail: [i.d.lomovtsev.gmail.com](i.d.lomovtsev.gmail.com "email by Lomovtsev Ivan")
-  + Codewars: [IvanLomovtsev](https://www.codewars.com/users/IvanLomovtsev "codewars by Lomovtsev Ivan")
 * 🏠 Location: Yekaterinburg, Russia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLomovtsev&layout=compact)](https://github.com/anuraghazra/github-readme-stat)
