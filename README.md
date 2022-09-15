@@ -8,8 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLomovtsev&layout=compact)](https://github.com/anuraghazra/github-readme-stat)
 
-[![codewars](https://www.codewars.com/users/IvanLomovtsev/badges/large?theme=light)](https://www.codewars.com/users/IvanLomovtsev)
-
 <!--
 **IvanLomovtsev/IvanLomovtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
