@@ -1,6 +1,6 @@
 ### Hi there, I'm Ivan 👋
 
-* 💬 A little bit about me: electrical research engineer, beginner frontend developer
+* 💬 A little bit about me: electrical research engineer
 * 📫 My contacts:
   + Telegram: [@ivanlomovtsev](@ivanlomovtsev "tg by Lomovtsev Ivan")
   + Gmail: [i.d.lomovtsev.gmail.com](i.d.lomovtsev.gmail.com "email by Lomovtsev Ivan")
